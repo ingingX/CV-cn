@@ -1,8 +1,8 @@
 # Fdb version 3
-["pdflatex"] 1583120074 "g:/MYP/GitHub/CV-cn/CV-CN.tex" "g:/MYP/GitHub/CV-cn/CV-CN.pdf" "CV-CN" 1583120078
-  "CV-CN.aux" 1583120077 757 4f8e6dc7f39129e1da275e4679df5d33 "pdflatex"
-  "CV-CN.out" 1583120076 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "CV-CN.tex" 1583120071 7964 c5c99221385561281bb42fcd5fcee5e3 ""
+["pdflatex"] 1583120339 "g:/MYP/GitHub/CV-cn/CV-CN.tex" "g:/MYP/GitHub/CV-cn/CV-CN.pdf" "CV-CN" 1583120343
+  "CV-CN.aux" 1583120342 757 4f8e6dc7f39129e1da275e4679df5d33 "pdflatex"
+  "CV-CN.out" 1583120341 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "CV-CN.tex" 1583120335 7964 c5c99221385561281bb42fcd5fcee5e3 ""
   "avatar1.jpg" 1579250868 35814 27fee098221783e300427cc427778591 ""
   "c:/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc" 1579233369 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "c:/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map" 1579233722 3332 103109f5612ad95229751940c61aada0 ""
@@ -304,12 +304,12 @@
   "c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1579236713 3265705 1c47a36e1854fca80ccfb74d1dfbdde3 ""
   "c:/texlive/2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1579236925 4254431 77e306c09d9e8b6c9aa90c01eb66635a ""
   "c:/texlive/2019/texmf.cnf" 1579236669 673 4ae7b2f49cee444c5343a45b5d0f169c ""
-  "g:/MYP/GitHub/CV-cn/CV-CN.aux" 1583120077 757 4f8e6dc7f39129e1da275e4679df5d33 ""
-  "g:/MYP/GitHub/CV-cn/CV-CN.tex" 1583120071 7964 c5c99221385561281bb42fcd5fcee5e3 ""
+  "g:/MYP/GitHub/CV-cn/CV-CN.aux" 1583120342 757 4f8e6dc7f39129e1da275e4679df5d33 ""
+  "g:/MYP/GitHub/CV-cn/CV-CN.tex" 1583120335 7964 c5c99221385561281bb42fcd5fcee5e3 ""
   (generated)
-  "CV-CN.pdf"
   "CV-CN.aux"
+  "CV-CN.log"
+  "CV-CN.pdf"
+  "CV-CN.out"
   "g:/MYP/GitHub/CV-cn/CV-CN.pdf"
   "g:/MYP/GitHub/CV-cn/CV-CN.log"
-  "CV-CN.out"
-  "CV-CN.log"
